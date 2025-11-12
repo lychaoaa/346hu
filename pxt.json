@@ -1,5 +1,6 @@
 {
     "name": "最高最低温度计",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
